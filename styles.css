@@ -1,5 +1,11 @@
+@font-face {
+  font-family: 'TULISANKEKE-REGULAR';
+  src: url('TULISANKEKE-REGULAR.ttf') format('ttf'),
+  font-weight: normal;
+  font-style: normal;
+
 body {
-  font-family: 'Tulisan Keke', sans-serif;
+  font-family: 'TULISANKEKE-REGULAR', sans-serif;
   margin: 0;
   background: #fdf6e3;
   color: #333;
