@@ -1,5 +1,6 @@
 body {
   font-family: 'Tulisan Keke Regular', sans-serif;
+  src: url('tulisan-keke.ttf') format('ttf')
   margin: 0;
   background: #fdf6e3;
   color: #333;
